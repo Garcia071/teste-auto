@@ -52,9 +52,6 @@ A estrutura de diretórios do projeto deve ser a seguinte:
 
 Aqui está uma versão do README.md que cobre tanto o script em Bash quanto o em PowerShell. Este documento descreve o funcionamento do projeto, como configurar e executar os testes para códigos em Python, C e C++.
 
-README.md
-markdown
-Copiar código
 # Teste Automatizado de Códigos em Python, C e C++
 
 ## Descrição do Projeto
@@ -106,20 +103,20 @@ Se preferir, você pode instalar o **MSYS2**, que fornece o compilador **gcc** e
 
 A estrutura de diretórios do projeto deve ser a seguinte:
 
-/meu_projeto/
-  test.sh # Script Bash
-  test.ps1 # Script PowerShell
-  config.json # Configurações em JSON
-  test_log.csv # Histórico de execuções
-  main.py # Exemplo de código em Python
-  main.c # Exemplo de código em C
-  main.cpp # Exemplo de código em C++
-  /testes/ # Diretório com entradas e saídas de teste
-    1.in # Arquivo de entrada
-    1.out # Arquivo de saída esperada
-    2.in # Outro arquivo de entrada
-    2.out # Outro arquivo de saída esperada
-
+- /meu_projeto/
+  - **test.sh**: Script Bash
+  - **test.ps1**: Script PowerShell
+  - **config.json**: Configurações em JSON
+  - **test_log.csv**: Histórico de execuções
+  - **main.py**: Exemplo de código em Python
+  - **main.c**: Exemplo de código em C
+  - **main.cpp**: Exemplo de código em C++
+  - /testes/: Diretório com entradas e saídas de teste
+    - **1.in**: Arquivo de entrada
+    - **1.out**: Arquivo de saída esperada
+    - **2.in**: Outro arquivo de entrada
+    - **2.out**: Outro arquivo de saída esperada
+      
 
 ## Executando o Projeto
 
