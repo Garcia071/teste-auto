@@ -155,10 +155,10 @@ Ou para C:
 ## Saída Esperada
 Após a execução, o script exibirá o status de cada teste:
 
-Arquivo de entrada: ./main.py
-Diretório de testes: ./testes/
-Linguagem detectada: python
-Teste 1.in: Sucesso
-Teste 2.in: Falha
+* **Arquivo de entrada:** ./main.py
+* **Diretório de testes:** ./testes/
+* **Linguagem detectada:** python
+* **Teste 1.in:** Sucesso
+* **Teste 2.in:** Falha
 
 
