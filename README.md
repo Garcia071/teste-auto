@@ -161,4 +161,7 @@ Após a execução, o script exibirá o status de cada teste:
 * **Teste 1.in:** Sucesso
 * **Teste 2.in:** Falha
 
+### Video Executando o Programa
+
+https://github.com/user-attachments/assets/37c8159f-96c9-4bda-95a4-c1fb242a9981
 
